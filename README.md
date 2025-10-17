@@ -17,7 +17,7 @@
 
   <strong>`Aventureiro no Desenvolvimento FullStack`</strong>
 
-  <p>Meu nome é Manuel Bango, sou natural de Luanda/Angola. Concluí o ensino médio no CEE, com o curso técnico de informática de Gestão. Atualmente, estou cursando Análise de Dados. Sou apaixonada por tecnologia e busco sempre apreender através de pesquisas e conexoes com amigos.</p>
+  <p>Meu nome é Manuel Bango, sou natural de Luanda/Angola. Concluí o ensino médio no CEE, com o curso técnico de informática de Gestão. Atualmente, estou cursando Análise de Dados. Sou apaixonado por tecnologia e busco sempre apreender através de pesquisas e conexoes com amigos.</p>
   <p align="left">
     <a href="https://www.linkedin.com/in/manuel-bango/" target="_blank">
       <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
